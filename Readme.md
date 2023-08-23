@@ -20,17 +20,17 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-> Linear Regression
-	- Train set R2  = 0.77
-	- Test set R2  = 0.71
-	- Train set Adjusted R2 = 0.764
-	- Test set Adjusted R2  = 0.702 
-> Ridge Regression
-	- Train Set R2 : 0.906
-	- Test Set R2 : 0.892
-> Lasso Regression
-	- Train Set R2 : 0.905
-	- Test Set R2 : 0.897
+* Linear Regression
+	> * Train set R2  = 0.77
+	> * Test set R2  = 0.71
+	> * Train set Adjusted R2 = 0.764
+	> * Test set Adjusted R2  = 0.702 
+* Ridge Regression
+	> * Train Set R2 : 0.906
+	> * Test Set R2 : 0.892
+* Lasso Regression
+	> * Train Set R2 : 0.905
+	> * Test Set R2 : 0.897
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
